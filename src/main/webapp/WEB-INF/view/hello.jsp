@@ -13,5 +13,8 @@
 <body>
 <h2>${message}</h2>
 <a href="${pageContext.request.contextPath}/hello/showForm">form page</a>
+<br>
+
+<a href="/student/showForm">Student form</a>
 </body>
 </html>
